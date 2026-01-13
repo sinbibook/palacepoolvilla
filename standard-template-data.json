@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.1.0",
-    "generatedAt": "2026-01-13T08:59:00.785Z",
+    "version": "1.2.0",
+    "generatedAt": "2026-01-13T09:09:19.276Z",
     "templateType": "full_banner_slider_flat",
     "propertyId": "c230a256-2748-4978-a79d-b885ef46d70b",
     "homepageId": "acd65c25-da2e-4e0a-832a-430dc163c9e4"
@@ -462,55 +462,6 @@
         }
       ],
       "displayOrder": 1
-    },
-    {
-      "id": "ca568292-135a-424c-8032-d98c5e15f04b",
-      "name": "102(한옥/풀빌라/키즈정글짐)",
-      "description": "",
-      "roomInfo": "원룸형: 침대룸A(퀸1,키즈정글짐)+화장실1+실내수영장\n\n[인원추가(1박기준/현장결제)]\n- 12개월 이상 1인 20,000원 / 12개월 미만 1명까지 무료\n※ 아동유아 기준인원 포함/최대인원 초과 불가",
-      "group": "102(한옥/풀빌라/키즈정글짐)",
-      "size": 49,
-      "baseOccupancy": 2,
-      "maxOccupancy": 2,
-      "totalRoomCount": {
-        "bedroom": 1,
-        "bathroom": 1,
-        "livingRoom": 0
-      },
-      "bedTypes": [
-        "퀸 베드"
-      ],
-      "amenities": [
-        "한옥",
-        "무료 WiFi",
-        "스마트 TV",
-        "에어컨",
-        "냉장고",
-        "전자레인지",
-        "헤어드라이어",
-        "인덕션",
-        "조리도구",
-        "식기류",
-        "샴푸",
-        "린스",
-        "바디워시",
-        "키즈텐트",
-        "풀빌라",
-        "금연"
-      ],
-      "roomViews": [
-        "숲전망"
-      ],
-      "roomStructures": [],
-      "status": "active",
-      "images": [
-        {
-          "thumbnail": [],
-          "interior": [],
-          "exterior": []
-        }
-      ],
-      "displayOrder": 2
     },
     {
       "id": "a0b44521-6e7b-4802-abac-5ba2c7bb40e0",
@@ -1075,6 +1026,51 @@
                   ],
                   "blockId": "d3926824-079c-40d6-bda9-0742c8a7fc32",
                   "description": "숙소 바로 옆으로 흐르는 맑은 계곡에서\n아이들은 자연 속 물놀이를 즐기고,\n가족은 도심을 벗어난 진짜 힐링을 경험하세요."
+                },
+                {
+                  "title": "",
+                  "images": [
+                    {
+                      "id": "14688346-8252-42a0-8b07-cc528cd7fdd2",
+                      "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/acd65c25-da2e-4e0a-832a-430dc163c9e4/main_about/1768295352907-x2o8e2tkn6c.jpg",
+                      "sortOrder": 1,
+                      "description": "",
+                      "isSelected": true,
+                      "blockId": "1b548669-6335-4062-9f66-6484e3ba23da"
+                    }
+                  ],
+                  "blockId": "1b548669-6335-4062-9f66-6484e3ba23da",
+                  "description": "히노끼 향이 은은하게 퍼지는 따뜻한 탕에서\n한옥의 고요함 속 깊은 쉼을 경험하세요."
+                },
+                {
+                  "title": "",
+                  "images": [
+                    {
+                      "id": "b431921c-dc20-4cde-a687-92883231e576",
+                      "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/acd65c25-da2e-4e0a-832a-430dc163c9e4/main_about/1768295352908-25rfa2zpwje.jpg",
+                      "sortOrder": 2,
+                      "description": "",
+                      "isSelected": true,
+                      "blockId": "e4fa947a-0f66-48c2-a835-042e05165c62"
+                    }
+                  ],
+                  "blockId": "e4fa947a-0f66-48c2-a835-042e05165c62",
+                  "description": "객실 안에 마련된 키즈카페 공간에서\n아이들은 마음껏 놀고, 가족은 편안한 휴식을 즐길 수 있습니다."
+                },
+                {
+                  "title": "",
+                  "images": [
+                    {
+                      "id": "2ff6a80a-d8c8-4177-8224-2839583f061a",
+                      "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/acd65c25-da2e-4e0a-832a-430dc163c9e4/main_about/1768295352908-vh6d1k2uge.jpg",
+                      "sortOrder": 3,
+                      "description": "",
+                      "isSelected": true,
+                      "blockId": "4624485a-e6dd-45b4-9487-c1d1b61b7160"
+                    }
+                  ],
+                  "blockId": "4624485a-e6dd-45b4-9487-c1d1b61b7160",
+                  "description": "객실 안에 마련된 단독 수영장에서\n우리 가족만의 프라이빗한 물놀이를 즐겨보세요."
                 }
               ]
             }
@@ -1087,7 +1083,22 @@
             {
               "hero": {
                 "title": "",
-                "images": []
+                "images": [
+                  {
+                    "id": "05e6bcb5-18cc-4131-803f-7cbf1d640fea",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/acd65c25-da2e-4e0a-832a-430dc163c9e4/reservation_hero/1768295024064-b0hi9c7922b.jpg",
+                    "sortOrder": 0,
+                    "description": "",
+                    "isSelected": true
+                  },
+                  {
+                    "id": "c72512c1-61c8-478f-ad37-7b65c2cefbe9",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/acd65c25-da2e-4e0a-832a-430dc163c9e4/reservation_hero/1768295024065-ezowkkl60ba.jpg",
+                    "sortOrder": 1,
+                    "description": "",
+                    "isSelected": true
+                  }
+                ]
               },
               "about": {
                 "title": "",
@@ -2458,7 +2469,7 @@
             {
               "id": "2768c0d6-3299-40fc-9827-d98e1e9a3871",
               "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/acd65c25-da2e-4e0a-832a-430dc163c9e4/roomtype_exterior/1768283496560-qygdhyp5nw.jpg",
-              "sortOrder": 18,
+              "sortOrder": 19,
               "description": "",
               "isSelected": true,
               "blockId": "10d17f5c-84a0-4509-a808-61a4e85e3253",
@@ -2467,7 +2478,7 @@
             {
               "id": "c5a01771-9593-4f1c-9ccf-324cb012416e",
               "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/acd65c25-da2e-4e0a-832a-430dc163c9e4/roomtype_exterior/1768283496560-tp0hdotho3.jpg",
-              "sortOrder": 19,
+              "sortOrder": 20,
               "description": "",
               "isSelected": true,
               "blockId": "10d17f5c-84a0-4509-a808-61a4e85e3253",
@@ -2476,7 +2487,7 @@
             {
               "id": "2e0762e7-a6f8-4ea4-8b39-f87333f14f77",
               "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/acd65c25-da2e-4e0a-832a-430dc163c9e4/roomtype_exterior/1768283496560-4zjw8zhv4ph.jpg",
-              "sortOrder": 19,
+              "sortOrder": 21,
               "description": "",
               "isSelected": true,
               "blockId": "10d17f5c-84a0-4509-a808-61a4e85e3253",
@@ -2485,7 +2496,7 @@
             {
               "id": "29fca2c6-ca37-4192-8ef8-da8161e808a5",
               "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/acd65c25-da2e-4e0a-832a-430dc163c9e4/roomtype_exterior/1768283496560-6cox0w59oyn.jpg",
-              "sortOrder": 20,
+              "sortOrder": 22,
               "description": "",
               "isSelected": true,
               "blockId": "10d17f5c-84a0-4509-a808-61a4e85e3253",
@@ -2494,7 +2505,7 @@
             {
               "id": "be012b6f-8e43-4062-a3b3-b591d9abf8bd",
               "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/acd65c25-da2e-4e0a-832a-430dc163c9e4/roomtype_exterior/1768294660043-1r0cwswkabr.jpg",
-              "sortOrder": 21,
+              "sortOrder": 23,
               "description": "",
               "isSelected": true,
               "blockId": "10d17f5c-84a0-4509-a808-61a4e85e3253",

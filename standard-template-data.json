@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.6.0",
-    "generatedAt": "2026-01-15T06:47:41.001Z",
+    "version": "1.7.0",
+    "generatedAt": "2026-01-15T06:51:28.646Z",
     "templateType": "full_banner_slider_flat",
     "propertyId": "c230a256-2748-4978-a79d-b885ef46d70b",
     "homepageId": "acd65c25-da2e-4e0a-832a-430dc163c9e4"
@@ -720,8 +720,8 @@
       {
         "logo": [
           {
-            "id": "f6ebee8d-0073-46ff-8493-434dd3151e3a",
-            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/acd65c25-da2e-4e0a-832a-430dc163c9e4/logo/1768459619748-gg9f7j39s25.png",
+            "id": "7acb15b4-4617-4216-b8f1-92bd030e7d66",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/acd65c25-da2e-4e0a-832a-430dc163c9e4/logo/1768459883265-o2nsd7ejmu8.png",
             "sortOrder": 0,
             "description": "",
             "isSelected": true

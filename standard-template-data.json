@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.4.0",
-    "generatedAt": "2026-01-14T00:17:09.995Z",
+    "version": "1.5.0",
+    "generatedAt": "2026-01-15T05:43:50.060Z",
     "templateType": "full_banner_slider_flat",
     "propertyId": "c230a256-2748-4978-a79d-b885ef46d70b",
     "homepageId": "acd65c25-da2e-4e0a-832a-430dc163c9e4"
@@ -910,7 +910,7 @@
                     "id": "2b569710-fbbb-43ac-82f9-8373985d199c",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/acd65c25-da2e-4e0a-832a-430dc163c9e4/index_gallery/1768284393413-hjck3clqxqb.jpg",
                     "sortOrder": 3,
-                    "description": "히노끼탕",
+                    "description": "히노끼 수영장",
                     "isSelected": true
                   },
                   {
@@ -1040,7 +1040,7 @@
                     }
                   ],
                   "blockId": "1b548669-6335-4062-9f66-6484e3ba23da",
-                  "description": "히노끼 향이 은은하게 퍼지는 따뜻한 탕에서\n한옥의 고요함 속 깊은 쉼을 경험하세요."
+                  "description": "히노끼 향이 은은하게 퍼지는 수영장에서\n한옥의 고요함 속 깊은 쉼을 경험하세요."
                 },
                 {
                   "title": "",
@@ -1286,8 +1286,8 @@
           "id": "7bdba40a-8d01-4cb1-b595-66e8cf222c48",
           "images": [
             {
-              "id": "c63992e5-547c-484b-97b0-ffa05e04561a",
-              "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/acd65c25-da2e-4e0a-832a-430dc163c9e4/roomtype_thumbnail/1768273867427-r7uit0pwl2d.jpg",
+              "id": "97379531-cda7-4955-a826-1d41045be2d0",
+              "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/acd65c25-da2e-4e0a-832a-430dc163c9e4/roomtype_thumbnail/1768455635065-q5foadq5ceh.jpg",
               "sortOrder": 0,
               "description": "",
               "isSelected": true,
@@ -1295,8 +1295,8 @@
               "category": "roomtype_thumbnail"
             },
             {
-              "id": "01d4e7cc-9128-4a8f-af7b-72a15a085ae3",
-              "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/acd65c25-da2e-4e0a-832a-430dc163c9e4/roomtype_interior/1768273867427-a7d275vsu1m.jpg",
+              "id": "fef5f547-2175-4c80-ab9f-d49fbb40a9c8",
+              "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/acd65c25-da2e-4e0a-832a-430dc163c9e4/roomtype_interior/1768273867428-m2e8p8n6xnh.jpg",
               "sortOrder": 0,
               "description": "",
               "isSelected": true,
@@ -1304,9 +1304,18 @@
               "category": "roomtype_interior"
             },
             {
+              "id": "01d4e7cc-9128-4a8f-af7b-72a15a085ae3",
+              "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/acd65c25-da2e-4e0a-832a-430dc163c9e4/roomtype_interior/1768273867427-a7d275vsu1m.jpg",
+              "sortOrder": 1,
+              "description": "",
+              "isSelected": false,
+              "blockId": "7bdba40a-8d01-4cb1-b595-66e8cf222c48",
+              "category": "roomtype_interior"
+            },
+            {
               "id": "68dc622a-9595-4503-b075-14d94061ed9f",
               "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/acd65c25-da2e-4e0a-832a-430dc163c9e4/roomtype_interior/1768273867427-81v4z1i5822.jpg",
-              "sortOrder": 1,
+              "sortOrder": 2,
               "description": "",
               "isSelected": true,
               "blockId": "7bdba40a-8d01-4cb1-b595-66e8cf222c48",
@@ -1315,15 +1324,6 @@
             {
               "id": "b2addb0d-8319-4a30-aeda-390f2225e9c0",
               "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/acd65c25-da2e-4e0a-832a-430dc163c9e4/roomtype_interior/1768273867427-5qstm23lsh.jpg",
-              "sortOrder": 2,
-              "description": "",
-              "isSelected": true,
-              "blockId": "7bdba40a-8d01-4cb1-b595-66e8cf222c48",
-              "category": "roomtype_interior"
-            },
-            {
-              "id": "fef5f547-2175-4c80-ab9f-d49fbb40a9c8",
-              "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/acd65c25-da2e-4e0a-832a-430dc163c9e4/roomtype_interior/1768273867428-m2e8p8n6xnh.jpg",
               "sortOrder": 3,
               "description": "",
               "isSelected": true,

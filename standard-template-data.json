@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.11.0",
-    "generatedAt": "2026-01-16T02:56:32.501Z",
+    "version": "1.12.0",
+    "generatedAt": "2026-01-16T03:04:54.293Z",
     "templateType": "full_banner_slider_flat",
     "propertyId": "c230a256-2748-4978-a79d-b885ef46d70b",
     "homepageId": "acd65c25-da2e-4e0a-832a-430dc163c9e4"
@@ -905,7 +905,7 @@
                     "id": "062ad11f-37ad-48be-a49e-fa2a364b1ee9",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/acd65c25-da2e-4e0a-832a-430dc163c9e4/index_gallery/1768531666213-b5lie37w4b.jpg",
                     "sortOrder": 5,
-                    "description": "",
+                    "description": "히노끼 수영장",
                     "isSelected": true
                   }
                 ]
@@ -928,31 +928,31 @@
                     "isSelected": true
                   },
                   {
+                    "id": "a93ca8a9-7e19-4f0f-a5a8-e5e2d4fed603",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/acd65c25-da2e-4e0a-832a-430dc163c9e4/index_signature/1768531666213-8kaewhi4tjq.jpg",
+                    "sortOrder": 2,
+                    "description": "은은한 히노끼 향,\r\n한옥 속 깊은 쉼",
+                    "isSelected": true
+                  },
+                  {
                     "id": "6c73194f-4af8-40c2-a129-d556a3cfb82b",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/acd65c25-da2e-4e0a-832a-430dc163c9e4/index_signature/1768284393413-d5mrlp9zyhk.jpg",
-                    "sortOrder": 2,
+                    "sortOrder": 3,
                     "description": "은은한 히노끼 향,\n한옥 속 깊은 쉼.",
                     "isSelected": true
                   },
                   {
                     "id": "570467fd-aafd-4332-a207-b0af8f150b3a",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/acd65c25-da2e-4e0a-832a-430dc163c9e4/index_signature/1768284393413-dptnoq617t.jpg",
-                    "sortOrder": 3,
+                    "sortOrder": 4,
                     "description": "가족만을 위한 프라이빗 풀,\n함께여서 더 깊은 여유.",
                     "isSelected": true
                   },
                   {
                     "id": "9d43fe31-93b1-4361-934c-7baf0a030a8f",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/acd65c25-da2e-4e0a-832a-430dc163c9e4/index_signature/1768276446944-dp7rd5mo1o.jpg",
-                    "sortOrder": 4,
-                    "description": "가족만을 위한 프라이빗 풀,\n함께여서 더 깊은 여유.",
-                    "isSelected": true
-                  },
-                  {
-                    "id": "a93ca8a9-7e19-4f0f-a5a8-e5e2d4fed603",
-                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/acd65c25-da2e-4e0a-832a-430dc163c9e4/index_signature/1768531666213-8kaewhi4tjq.jpg",
                     "sortOrder": 5,
-                    "description": "은은한 히노끼 향,\r\n한옥 속 깊은 쉼",
+                    "description": "가족만을 위한 프라이빗 풀,\n함께여서 더 깊은 여유.",
                     "isSelected": true
                   }
                 ],
@@ -1285,7 +1285,7 @@
               "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/acd65c25-da2e-4e0a-832a-430dc163c9e4/roomtype_thumbnail/1768455635065-q5foadq5ceh.jpg",
               "sortOrder": 0,
               "description": "",
-              "isSelected": false,
+              "isSelected": true,
               "blockId": "7bdba40a-8d01-4cb1-b595-66e8cf222c48",
               "category": "roomtype_thumbnail"
             },
@@ -1664,7 +1664,7 @@
               "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/acd65c25-da2e-4e0a-832a-430dc163c9e4/roomtype_thumbnail/1768531366096-s68rf10zjxn.jpg",
               "sortOrder": 2,
               "description": "",
-              "isSelected": true,
+              "isSelected": false,
               "blockId": "0811095c-66df-4a4d-b4e2-015fd8f58912",
               "category": "roomtype_thumbnail"
             },

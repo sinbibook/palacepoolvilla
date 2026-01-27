@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.19.0",
-    "generatedAt": "2026-01-26T07:28:37.310Z",
+    "version": "1.20.0",
+    "generatedAt": "2026-01-27T07:09:34.324Z",
     "templateType": "full_banner_slider_flat",
     "propertyId": "c230a256-2748-4978-a79d-b885ef46d70b",
     "homepageId": "acd65c25-da2e-4e0a-832a-430dc163c9e4"
@@ -435,7 +435,7 @@
     ],
     "nameEn": "Gyeongju Palace Hanok Kids Pool Villa",
     "domain": "palacepoolvilla.kr",
-    "realtimeBookingId": "10358",
+    "realtimeBookingId": "https://www.bookingplay.co.kr/booking/1/10358",
     "ybsId": ""
   },
   "rooms": [
@@ -1141,9 +1141,6 @@
           ]
         }
       },
-      "popup": {
-        "popups": []
-      },
       "theme": {
         "font": {
           "koSub": {
@@ -1164,6 +1161,9 @@
           "primary": "#F5F5F5",
           "secondary": "#243C5C"
         }
+      },
+      "popup": {
+        "popups": []
       },
       "property": {
         "images": [
@@ -2524,7 +2524,6 @@
           ]
         }
       ]
-    },
-    "id": "acd65c25-da2e-4e0a-832a-430dc163c9e4"
+    }
   }
 }

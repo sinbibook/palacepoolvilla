@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.27.0",
-    "generatedAt": "2026-09-23T05:52:56.425362311Z",
+    "version": "1.28.0",
+    "generatedAt": "2026-10-16T06:47:46.672088948Z",
     "templateType": "full_banner_slider_flat",
     "propertyId": "c230a256-2748-4978-a79d-b885ef46d70b",
     "homepageId": "acd65c25-da2e-4e0a-832a-430dc163c9e4"
@@ -1705,8 +1705,8 @@
       "title": "경주 팰리스한옥키즈 풀빌라",
       "description": "한옥의 멋 + 키즈 풀빌라의 즐거움",
       "keywords": "#경주숙소 #경주펜션 #경주풀빌라 #경주키즈풀빌라#아이와경주 #가족여행숙소 #가족여행추천 #아이동반여행",
-      "naverSiteVerification": null,
-      "googleSiteVerification": null
+      "naverSiteVerification": "",
+      "googleSiteVerification": ""
     },
     "socialLinks": {
       "facebook": null,
@@ -2118,6 +2118,15 @@
               }
             }
           ]
+        },
+        "landing": {
+          "sections": [ ]
+        },
+        "layoutMap": {
+          "sections": [ ]
+        },
+        "nearbyAttractions": {
+          "sections": [ ]
         }
       },
       "theme": {
@@ -2479,6 +2488,10 @@
               "category": "roomtype_exterior"
             }
           ]
+        },
+        {
+          "id": "ca568292-135a-424c-8032-d98c5e15f04b",
+          "images": [ ]
         },
         {
           "id": "a0b44521-6e7b-4802-abac-5ba2c7bb40e0",
